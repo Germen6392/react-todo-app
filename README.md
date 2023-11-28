@@ -1,8 +1,11 @@
-# React + Vite
+# Trabajo Integrador Final - UTN Argentina Programa
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Consigna
 
-Currently, two official plugins are available:
+Se crea una aplicación web utilizando ReactJs que permita gestionar una lista de tareas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Los recursos utilizados para el desarrollo de este trabajo práctico fueron:
+- Uso de Hooks UseState y UseEffect.
+- Eventos de interacción del usuario: crear, modificar y eliminar tareas.
+- Importación de librerías externas: la utilizada fue UUID para creación de ID's únicos para mapear listas.
+- Componentes Funcionales: un componente de Lista de Tareas (TaskList), un componente de Tarea (TaskItem) y un componente de Formulario (TaskForm)
